@@ -1,2 +1,2 @@
 # Emotion-Detection-
-This detects real time emotions of a person.
+This detects real-time emotions of a person.
